@@ -123,4 +123,10 @@ nav {
  .social .comment {
    background-image: url(./images/comment.png);
  }
+ main {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   gap: 0;
+ }
 /* add styles here */
